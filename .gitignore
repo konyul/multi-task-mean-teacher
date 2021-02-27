@@ -1,0 +1,5 @@
+__pycache__/
+CIFAR10/
+log_file/
+save_temp/
+SLA/
